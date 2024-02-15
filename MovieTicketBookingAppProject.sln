@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTicketBookingAppProject", "MovieTicketBookingAppProject\MovieTicketBookingAppProject.csproj", "{DE9E5E1A-40DA-40BD-910C-1774FAA726AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE9E5E1A-40DA-40BD-910C-1774FAA726AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9E5E1A-40DA-40BD-910C-1774FAA726AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9E5E1A-40DA-40BD-910C-1774FAA726AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9E5E1A-40DA-40BD-910C-1774FAA726AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A8CBDFD-BE19-41F7-8E8B-918525CA7A5B}
+	EndGlobalSection
+EndGlobal
